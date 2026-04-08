@@ -1,0 +1,38 @@
+--- SAMPLE 1: Genuine ID ---
+FRAUD DETECTION REPORT
+Image path: C:/Users/91623/Downloads/genuine_id.jpg
+Blur Score: 2081.924679665738
+Extracted Text: 
+NER sures
+1 eR Sie
+
+cones nite
+oy. DEgTIZAT
+
+wn oul
+sasott
+aoe
+po8 nei9e> Se
+Ban ONFLE oat :
+— ance, Oe
+wae eee
+woe
+
+
+Issues Found
+None
+Final Verdict: Genuine
+Confidence Score: 100%
+
+
+--- SAMPLE 2: Suspicious ID ---
+
+FRAUD DETECTION REPORT
+Image path: C:/Users/91623/Downloads/Images/suspicious_id.jpg
+Blur Score: 2553.8976516360513
+Extracted Text: 
+No text found
+Issues Found
+- No text detected
+Final Verdict: Suspicious
+Confidence Score: 50%
